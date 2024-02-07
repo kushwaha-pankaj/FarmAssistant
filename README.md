@@ -22,6 +22,9 @@ AI Agriculture offers a comprehensive solution by leveraging artificial intellig
 - Efficient use of pesticides minimizes environmental impact and reduces costs for farmers.
 - Optimized crop planting decisions maximize crop yields and financial returns for farmers.
 
+## Website
+https://kushwaha-pankaj.github.io/FarmAssistant/
+
 
 ## Contributing
 
